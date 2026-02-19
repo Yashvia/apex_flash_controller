@@ -50,9 +50,10 @@ cd original-controller
 ## Build Status
 🔴 Not Started | 🟡 In Progress | 🟢 Complete
 
-- 🔴 ECC Module
-- 🔴 FTL Module
-- 🔴 ML Optimizer
+- 🟢 Basic working Nand controller with 1 bit hamming code correction 
+- 🟡 ECC Module
+- 🟡 ML Optimizer
+- 🟢 wear levelling algorithm
 - 🔴 Health Monitor
 - 🔴 Integration
 - 🔴 ASIC Design
